@@ -3,3 +3,60 @@ archived/
 logs/
 sites/assets/
 private/
+
+# Git ignor eval app 
+# Byte-compiled / optimized / DLL files
+apps/eval/__pycache__/
+apps/eval/*.py[cod]
+apps/eval/*$py.class
+apps/eval/*.pyc
+apps/eval/*.py~
+
+# Distribution / packaging
+apps/eval/.Python
+apps/eval/develop-eggs/
+apps/eval/dist/
+apps/eval/downloads/
+apps/eval/eggs/
+apps/eval/.eggs/
+apps/eval/lib64/
+apps/eval/parts/
+apps/eval/sdist/
+apps/eval/var/
+apps/eval/wheels/
+apps/eval/*.egg-info/
+apps/eval/.installed.cfg
+apps/eval/*.egg
+apps/eval/tags
+apps/eval/MANIFEST
+
+# Environments
+apps/eval/.env
+apps/eval/.venv
+apps/eval/env/
+apps/eval/venv/
+apps/eval/ENV/
+apps/eval/env.bak/
+apps/eval/venv.bak/
+
+# Dependency directories
+apps/eval/node_modules/
+apps/eval/jspm_packages/
+
+# IDEs and editors
+apps/eval/.vscode/
+apps/eval/.vs/
+apps/eval/.idea/
+apps/eval/.kdev4/
+apps/eval/*.kdev4
+apps/eval/*.DS_Store
+apps/eval/*.swp
+apps/eval/*.comp.js
+apps/eval/.wnf-lang-status
+apps/eval/*debug.log
+
+# Helix Editor
+apps/eval/.helix/
+
+# Aider AI Chat
+apps/eval/.aider*
