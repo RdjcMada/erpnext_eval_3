@@ -4,5 +4,8 @@
  "db_type": "mariadb",
  "db_user": "_de491d3686c36403",
  "developer_mode": 1,
- "encryption_key": "hLCVrRw9Iwu2wcM0HszgIUDMj91U7kzbeTDKZtRe2Rg="
+ "encryption_key": "hLCVrRw9Iwu2wcM0HszgIUDMj91U7kzbeTDKZtRe2Rg=",
+ "user_type_doctype_limit": {
+  "employee_self_service": 40
+ }
 }
